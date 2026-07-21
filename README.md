@@ -1,24 +1,31 @@
-### Hi there 👋
+# Hi, I'm Darkatek7 👋
 
-## Statistics & Technologies
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=darkatek7&theme=dracula&show_icons=true"/>
+I build practical, self-hosted software around media, automation, and developer tooling.
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkatek7&layout=compact"/>
+My current work spans multi-room audio, home media servers, Python tooling, and small utilities that solve real problems.
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
+## Featured projects
 
-<!--
-**darkatek7/darkatek7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+| Project | What it does | Main stack |
+| --- | --- | --- |
+| [SonosControl](https://github.com/Darkatek7/SonosControl) | Self-hosted Sonos dashboard for playback, scenes, schedules, favourites, music services, device management, and listening insights. | C# · Blazor · Docker |
+| [Tunarrly](https://github.com/Darkatek7/Tunarrly) | A self-hosted Lidarr companion that recommends artists from local listening signals, with optional AI support. | C# · Docker |
+| [ps5dbg](https://github.com/Darkatek7/ps5dbg) | Cross-platform Python client library and CLI for the ps5debug-NG protocol. | Python |
+| [arr-scripts](https://github.com/Darkatek7/arr-scripts) | Automation scripts for the *arr ecosystem, SABnzbd, Jellyfin, Jellyseerr, cross-seed, and more. | Shell · Docker |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Toolbox
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+## Say hello
+
+Found something useful or have an idea? Open an issue in the relevant repository or connect with me on [X](https://twitter.com/Darkatek7).
