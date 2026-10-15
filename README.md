@@ -2,16 +2,14 @@
 
 I build practical, self-hosted software around media, automation, and developer tooling.
 
-My current work spans multi-room audio, home media servers, Python tooling, and small utilities that solve real problems.
+My current work spans multi-room audio, home media servers, mobile apps, and small utilities that solve real problems.
 
 ## Featured projects
 
 | Project | What it does | Main stack |
 | --- | --- | --- |
 | [SonosControl](https://github.com/Darkatek7/SonosControl) | Self-hosted Sonos dashboard for playback, scenes, schedules, favourites, music services, device management, and listening insights. | C# · Blazor · Docker |
-| [Tunarrly](https://github.com/Darkatek7/Tunarrly) | A self-hosted Lidarr companion that recommends artists from local listening signals, with optional AI support. | C# · Docker |
-| [ps5dbg](https://github.com/Darkatek7/ps5dbg) | Cross-platform Python client library and CLI for the ps5debug-NG protocol. | Python |
-| [arr-scripts](https://github.com/Darkatek7/arr-scripts) | Automation scripts for the *arr ecosystem, SABnzbd, Jellyfin, Jellyseerr, cross-seed, and more. | Shell · Docker |
+| [Jellystack](https://github.com/Darkatek7/jellystack) | Privacy-focused Android client for Jellyfin and Seerr with media playback, requests, offline downloads, and TV support. | Kotlin · Android |
 
 ## Toolbox
 
@@ -28,4 +26,4 @@ My current work spans multi-room audio, home media servers, Python tooling, and 
 
 ## Say hello
 
-Found something useful or have an idea? Open an issue in the relevant repository or connect with me on [X](https://twitter.com/Darkatek7).
+Found something useful or have an idea? Open an issue in the relevant repository or reach me on Discord: **Darkatek7#3361**.
